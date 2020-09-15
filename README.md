@@ -1,4 +1,4 @@
-![Header](https://github.com/hsisco/hsisco/blob/master/readme_header.png)
+![Header](https://github.com/hsisco/hsisco/master/readme_header.png)
 
 ### Hi there 👋
 
