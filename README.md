@@ -1,15 +1,14 @@
-![Header](https://github.com/hsisco/hsisco/master/readme_header.png)
+![Header](https://github.com/hsisco/hsisco/master/assets/readme_header.png)
 
-### Hi there 👋
 
-Here are some ideas to get you started:
 
 <a href="https://github.com/hsisco/hsisco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsisco&layout=compact" alt="Hysen's Programming Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsisco" alt="Hysen's Programming Languages" />
 </a>
 <a href="https://github.com/hsisco/hsisco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsisco&show_icons=true" alt="Hysen's GitHub Stats" />
 </a>
+
 
 
 - 🔭 I’m currently working on ...
