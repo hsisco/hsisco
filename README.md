@@ -1,4 +1,4 @@
-![Header](https://github.com/hsisco/hsisco/master/assets/readme_header.png)
+![Header](https://github.com/hsisco/hsisco/assets/readme_header.png)
 
 
 <div align="center">
