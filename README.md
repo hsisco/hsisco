@@ -9,6 +9,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsisco&show_icons=true" alt="Hysen's GitHub Stats" />
 </a>
 
+<p align="center">
+<a href="https://github.com/hsisco">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+</a>
+</p>
 
 
 - 🔭 I’m currently working on ...
