@@ -11,8 +11,8 @@
 
 <p align="center">
 <a href="https://github.com/hsisco">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+  <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&include_all_commits=true&count_private=true "/>
+  <img height="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
 </a>
 </p>
 
