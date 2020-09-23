@@ -3,8 +3,8 @@
 
 <p align="center">
 <a href="https://github.com/hsisco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsisco&layout=compact" alt="Hysen's Programming Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsisco&show_icons=true" alt="Hysen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsisco&layout=compact" alt="Hysen's Programming Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsisco&show_icons=true" alt="Hysen's GitHub Stats" />
 </a>
 </p>
 
