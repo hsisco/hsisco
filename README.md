@@ -2,11 +2,11 @@
 
 
 
-<a href="https://github.com/hsisco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsisco&layout=compact" alt="Hysen's Programming Languages" />
+<a href="https://github.com/hsisco" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsisco&layout=compact" alt="Hysen's Programming Languages" />
 </a>
 <a href="https://github.com/hsisco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsisco&show_icons=true" alt="Hysen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsisco&show_icons=true" alt="Hysen's GitHub Stats" />
 </a>
 
 <p align="center">
