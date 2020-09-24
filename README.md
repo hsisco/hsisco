@@ -16,7 +16,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="center" display="inline-block">
   <img align="left" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&include_all_commits=true&count_private=true "/>
   <img align="right" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
 </div>
