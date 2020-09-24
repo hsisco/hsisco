@@ -19,7 +19,7 @@
 
 <div style="align:center;display:inline">
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&include_all_commits=true&count_private=true "/>
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
 </div>
 
 <h2>🛠 Tech Stack 🎨</h2>
