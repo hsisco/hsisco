@@ -21,6 +21,7 @@
   <img align="right" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
 </div>
 
+<div>
 <div align="center">
     <h2>🛠 Tech Stack</h2>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -44,4 +45,5 @@
     <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 </div>
