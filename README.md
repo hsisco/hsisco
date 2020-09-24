@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔰 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,12 +17,8 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<a href="https://github.com/hsisco">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&include_all_commits=true&count_private=true "/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
-</a>
-</p>
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&include_all_commits=true&count_private=true "/>
+  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
 
 ### 🛠 Tech Stack
 <div align="center">
