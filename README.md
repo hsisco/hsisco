@@ -1,4 +1,5 @@
 ![Header](https://github.com/hsisco/hsisco/blob/working/assets/readme_header.png)
+
 <div align="center">
     <img src="https://img.shields.io/badge/hysensisco%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
     <a href="https://www.linkedin.com/in/hysensisco/">
@@ -6,7 +7,12 @@
     </a>
 </div>
 
-Welcome to my GitHub! I'm **Hysen**, a communications professional transitioning into **web development**. Through Lambda School's full-stack web development program, I've built a solid foundation in both frontend and backend technologies and languages.
+
+Welcome to my GitHub! I'm **Hysen**, a full-stack **web developer** with a particular interest in front-end development, especially design implementation.
+
+
+As a former communications professional, I’ve developed strong creative problem-solving 🕵🏻‍♀️, organization 📝, communication 🤝🏼 and leadership 👩🏼‍🏫 skills. I am interested in combining those skills at a growth-stage startup, where the work is varied and collaborative, to solve social 🏙️ and environmental 🌎 problems.
+
 
 <div style="align:center;display:inline">
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&include_all_commits=true&count_private=true "/>
