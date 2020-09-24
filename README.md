@@ -21,6 +21,10 @@
   <img align="right" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
 </div>
 
+
+
+Lorem ipsum
+
 <div>
 <div align="center">
     <h2>🛠 Tech Stack</h2>
