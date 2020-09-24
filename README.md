@@ -7,17 +7,19 @@
     </a>
 </div>
 
+&nbsp;
+Welcome to my GitHub! I'm **Hysen**, a full-stack **web developer** with a particular interest in **front-end** development, especially **design** implementation.
 
-Welcome to my GitHub! I'm **Hysen**, a full-stack **web developer** with a particular interest in front-end development, especially design implementation.
 
-
-As a former communications professional, I’ve developed strong creative problem-solving 🕵🏻‍♀️, organization 📝, communication 🤝🏼 and leadership 👩🏼‍🏫 skills. I am interested in combining those skills at a growth-stage startup, where the work is varied and collaborative, to solve social 🏙️ and environmental 🌎 problems.
-
+As a former communications professional, I’ve developed strong creative problem-solving 🕵🏻‍♀️, organization 📝, communication 🤝🏼, and leadership 👩🏼‍🏫 skills. I am interested in combining those skills at a growth-stage startup, where the work is varied and collaborative, to solve social 🏙️ and environmental 🌎 problems.
+&nbsp;
+&nbsp;
 
 <div style="align:center;display:inline">
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsisco&show_icons=true&include_all_commits=true&count_private=true "/>
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsisco&layout=compact&langs_count=8 "/>
 </div>
+
 
 ## 🛠 Tech Stack 🎨</h2>
 <div>
