@@ -1,4 +1,4 @@
-![Header](https://github.com/hsisco/hsisco/blob/working/assets/readme_header.png)
+![Header](https://github.com/hsisco/hsisco/blob/master/assets/readme_header.png)
 
 <div align="center">
     <a href="https://www.linkedin.com/in/hysensisco/">
